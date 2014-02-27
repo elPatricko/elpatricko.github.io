@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1bae3973-5b69-4c1a-9453-4776db527637" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="elpatricko.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -93,7 +91,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="20" selection-start="323" selection-end="323" vertical-scroll-proportion="0.24637681" vertical-offset="0" max-vertical-offset="897">
+            <state line="10" column="106" selection-start="211" selection-end="211" vertical-scroll-proportion="0.18952063" vertical-offset="0" max-vertical-offset="897">
               <folding />
             </state>
           </provider>
@@ -478,7 +476,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="20" selection-start="323" selection-end="323" vertical-scroll-proportion="0.24637681" vertical-offset="0" max-vertical-offset="897">
+        <state line="10" column="106" selection-start="211" selection-end="211" vertical-scroll-proportion="0.18952063" vertical-offset="0" max-vertical-offset="897">
           <folding />
         </state>
       </provider>
