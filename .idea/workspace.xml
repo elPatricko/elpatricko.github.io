@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bae3973-5b69-4c1a-9453-4776db527637" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imprint.html" afterPath="$PROJECT_DIR$/imprint.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
     </list>
     <ignored path="elpatricko.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,10 +44,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="default.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="0" selection-start="1432" selection-end="1432" vertical-scroll-proportion="-28.615385" vertical-offset="259" max-vertical-offset="1156">
+            <state line="24" column="9" selection-start="523" selection-end="523" vertical-scroll-proportion="0.4503902" vertical-offset="4" max-vertical-offset="1258">
               <folding />
             </state>
           </provider>
@@ -61,10 +62,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="imprint.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="imprint.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/imprint.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="38" selection-start="3563" selection-end="3563" vertical-scroll-proportion="0.3556299" vertical-offset="973" max-vertical-offset="1870">
+            <state line="76" column="38" selection-start="3563" selection-end="3563" vertical-scroll-proportion="-12.269231" vertical-offset="973" max-vertical-offset="1870">
               <folding />
             </state>
           </provider>
@@ -73,7 +74,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="6" selection-start="678" selection-end="678" vertical-scroll-proportion="-20.26923" vertical-offset="0" max-vertical-offset="1462">
+            <state line="19" column="3" selection-start="424" selection-end="536" vertical-scroll-proportion="-8.5" vertical-offset="102" max-vertical-offset="1581">
               <folding />
             </state>
           </provider>
@@ -112,10 +113,10 @@
         <option value="$PROJECT_DIR$/_site/css/style.css" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/About/index.html" />
-        <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/imprint.html" />
+        <option value="$PROJECT_DIR$/_site/index.html" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
       </list>
     </option>
   </component>
@@ -452,13 +453,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="6" selection-start="678" selection-end="678" vertical-scroll-proportion="-20.26923" vertical-offset="0" max-vertical-offset="1462">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="7" selection-start="119" selection-end="119" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="527">
@@ -473,16 +467,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+    <entry file="file://$PROJECT_DIR$/imprint.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="0" selection-start="1432" selection-end="1432" vertical-scroll-proportion="-28.615385" vertical-offset="259" max-vertical-offset="1156">
+        <state line="76" column="38" selection-start="3563" selection-end="3563" vertical-scroll-proportion="-12.269231" vertical-offset="973" max-vertical-offset="1870">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imprint.html">
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="38" selection-start="3563" selection-end="3563" vertical-scroll-proportion="0.3556299" vertical-offset="973" max-vertical-offset="1870">
+        <state line="19" column="3" selection-start="424" selection-end="536" vertical-scroll-proportion="-8.5" vertical-offset="102" max-vertical-offset="1581">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="9" selection-start="523" selection-end="523" vertical-scroll-proportion="0.4503902" vertical-offset="4" max-vertical-offset="1258">
           <folding />
         </state>
       </provider>
